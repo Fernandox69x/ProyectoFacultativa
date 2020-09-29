@@ -9,4 +9,4 @@ requisitos
 3- se incluira los botones de suma, resta, multiplicacion y division al costado derecho
 4- se incluiran botones de borrado y limpieza
 5- se podra continuar con una operacion ya realizada 
-
+6- los comandos tendran super usuario
