@@ -9,6 +9,7 @@
   "scripts": {
     "start": "webpack-dev-server -d",
     "dev": "webpack -d"
+    
   },
   "dependencies": {
     "css-loader": "^4.3.0",
